@@ -83,7 +83,7 @@ const translations = {
     },
 
     6: {
-        ko: "위험할 정도로 카페인에 절여짐<br>클래스: 중장갑형 미루기 장인",
+        ko: "상태: 위험할 정도로 카페인에 절여짐<br>클래스: 중장갑형 미루기 장인",
         en: "STATUS: DANGEROUSLY CAFFEINATED<br>CLASS: HEAVY-DUTY PROCRASTINATOR"
     },
 
